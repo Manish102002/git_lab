@@ -1,3 +1,7 @@
 welcome to cat
 Learning Git basics
+<<<<<<< HEAD
 this line is to new main branch
+=======
+This line is from CONFLICT branch.
+>>>>>>> conflict-branch
